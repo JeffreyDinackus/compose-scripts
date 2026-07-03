@@ -1,1 +1,1 @@
-I curl these compose scripts into my homelab
+I curl these compose scripts into my homelab.
